@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This file is to do a demo for VC
-=======
-text file of 1st version
->>>>>>> e7173add42d5a1dc07abb0f70a48ab4f205dd142
